@@ -16,4 +16,4 @@ the commited file mainly reference to the source file https://gist.github.com/ni
 
 
 # Requirement
- <Png.h> library
+ Png.h library needed
